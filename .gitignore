@@ -1,0 +1,75 @@
+# Environment
+KanoonAI/.env
+KanoonAI/.env.*
+
+# Python
+KanoonAI/__pycache__/
+KanoonAI/*.py[cod]
+KanoonAI/*$py.class
+KanoonAI/*.pyc
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+KanoonAI/venv/
+KanoonAI/env/
+KanoonAI/.venv/
+KanoonAI/ENV/
+
+# Pytest
+.pytest_cache/
+KanoonAI/.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+KanoonAI/.ipynb_checkpoints/
+
+# Node
+node_modules/
+KanoonAI/node_modules/
+
+# Vite / build outputs
+dist/
+.turbo/
+
+# Tailwind / PostCSS cache
+.postcss-cache/
+
+# Logs
+*.log
+KanoonAI/*.log
+
+# Secrets
+*.pem
+*.key
+*.crt
+
+# Editor directories and files
+.vscode/
+KanoonAI/.vscode/
+*.swp
+*~
+*.swo
+
+# macOS
+.DS_Store
+
+# Sentry / Rollbar
+/sentry-debug.log
+
+# OS generated files
+Thumbs.db
+
+# End of file

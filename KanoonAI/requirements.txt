@@ -1,0 +1,9 @@
+langchain>=0.0.300
+openai
+pinecone-client
+tiktoken
+python-dotenv
+PyPDF2
+faiss-cpu
+click
+google-genai
